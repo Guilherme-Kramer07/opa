@@ -1,0 +1,15 @@
+div{
+    background-color: blue;
+}
+body
+{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+ul li a{
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: 50px;
+}
